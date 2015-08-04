@@ -1,10 +1,10 @@
 # connect
 
-# Game of Connecting the dots
+ Game of Connecting the dots
 
-# Connect will be a multiplayer game.
+ Connect will be a multiplayer game.
 
-# Players will connect using wifi.
+ Players will connect using wifi.
 
 
 Find more information about the game in below link.
